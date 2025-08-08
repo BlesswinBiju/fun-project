@@ -1,34 +1,37 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Motta Puffs 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Tech Titans
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Blesswin Biju - Sahrdaya College Of Advanced Studies
+- Member 2: Tom P Lal - Sahrdaya College Of Advanced Studies
 
 ### Project Description
-[2-3 lines about what your project does]
+Motta Puff is a website that takes a self-description from a user and uses AI to generate a humorous and personalized roast. As an added bonus, it also features a fun digital gift-unwrapping experience.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world full of self-love and positive affirmations, we found a critical lack of personalized, harmless insults to keep everyone grounded. People are becoming too comfortable with themselves and need a friendly reminder that nobody's perfect.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Our AI, affectionately known as the 'Motta Roaster,' takes your self-aggrandizing description and turns it into a masterpiece of comedic criticism. We've also included a gift unwrapping mini-game because sometimes you need a little digital treat after being roasted.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
+Languages: [e.g., JavaScript, Python, HTML, CSS]
+
+Frameworks: [e.g., React, Flask, Django]
+
+Libraries: [e.g., OpenAI API, DALL-E 3, Node.js]
+
+Tools: [e.g., Git, VS Code, npm]
 
 For Hardware:
 - [List main components]
@@ -88,10 +91,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Blesswin Biju (CEO Motta): [Specific contributions, e.g., concept development, AI integration, front-end design]
 
+Tom L Lal (Assistant Motta): [Specific contributions, e.g., back-end development, gift unwrapping feature, testing]
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
