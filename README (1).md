@@ -92,9 +92,9 @@ For Hardware:
 
 ## Team Contributions
 
-Blesswin Biju (CEO): [Specific contributions, e.g., concept development, AI integration, front-end design]
+Blesswin Biju (CEO Motta): [Specific contributions, e.g., concept development, AI integration, front-end design]
 
-Tom L Lal (Assistant Motta): [Specific contributions, e.g., back-end development, gift unwrapping feature, testing]
+Tom L Lal (Assistant ): [Specific contributions, e.g., back-end development, gift unwrapping feature, testing]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
