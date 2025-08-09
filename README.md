@@ -52,7 +52,7 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
-<img width="3188" height="1202" alt="frame (3)" src="img1" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/BlesswinBiju/fun-project/blob/main/img1.jpg" />
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
