@@ -57,11 +57,11 @@ For Software:
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
-<img width="3188" height="1202" alt="frame (3)" src="img1.jpg" />
+<img width="3188" height="1202" alt="frame (3)" src="img2.jpg" />
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
-<img width="3188" height="1202" alt="frame (3)" src="img1.jpg" />
+<img width="3188" height="1202" alt="frame (3)" src="img3.jpg" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
