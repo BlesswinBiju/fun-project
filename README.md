@@ -50,17 +50,15 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+
+SCREENSHOT 1
 <img width="3188" height="1202" alt="frame (3)" src="img1.jpg" />
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+SCREENSHOT 2
 <img width="3188" height="1202" alt="frame (3)" src="img2.jpg" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+SCREENSHOT 3
 <img width="3188" height="1202" alt="frame (3)" src="img3.jpg" />
 
 # Diagrams
